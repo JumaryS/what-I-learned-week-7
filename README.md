@@ -45,6 +45,13 @@ You can also use a while or forloor to loop through an array to find even or odd
 ![Array](https://miro.medium.com/max/700/1*UTmgpblTHBBC-nFq1uGM5w.gif)
 
 
+## Methods we couldnt use but studied
+
+
+   
+        1. Split :The split() method is used to split a string into an array of substrings, and returns the new array. 
+        2. Reverse :The reverse() method reverses the order of the elements in an array. Note: this method will change the original array.
+        3. Join : The join() method creates and returns a new string by concatenating all of the elements in an array (or an array-like object), separated by commas or a specified separator string. If the array has only one item, then that item will be returned without using the separator.
 
 
 
