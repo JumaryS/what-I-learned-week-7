@@ -54,12 +54,8 @@ You can also use a while or forloor to loop through an array to find even or odd
                 
             }
             return result+ '...'
-}
-console.log(truncate("hello worldhfhfhjfjfjjdfhfhh"))
-
-
-   
-![Array](https://miro.medium.com/max/700/1*UTmgpblTHBBC-nFq1uGM5w.gif)
+                    }
+            console.log(truncate("hello worldhfhfhjfjfjjdfhfhh"))
 
 
 # Cool math operators 
