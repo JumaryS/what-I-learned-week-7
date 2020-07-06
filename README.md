@@ -32,7 +32,7 @@ You can also use a while or forloor to loop through an array to find even or odd
 
 ### Mapping!
    
-![Array](https://miro.medium.com/max/700/1*UTmgpblTHBBC-nFq1uGM5w.gif)
+![map](https://miro.medium.com/max/2514/1*4EGwsCicbWJeml2aAm714A.gif)
 
 
 
