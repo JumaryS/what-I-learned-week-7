@@ -43,6 +43,8 @@ You can also use a while or forloor to loop through an array to find even or odd
 ### String!
 ![fizz](https://eponymous-labs.github.io/carbide-splash/static/img/fizzbuzz.gif)
 
+A JavaScript string stores a series of characters like "John Doe". String indexes are zero-based: The first character is in position 0, the second in 1, and so on.You can use string  methods to find the strings lenght,finding a string within a string , string index and so on
+
  
 #### Hard string examples that are great to learn 
             1. Truncate... (-_-)
