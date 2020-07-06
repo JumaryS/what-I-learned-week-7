@@ -41,9 +41,28 @@ You can also use a while or forloor to loop through an array to find even or odd
 [string](https://github.com/JumaryS/string-theory)
 
 ### String!
+
+#### Hard string examples that are great to learn 
+            1. Truncate... (-_-)
+            const truncate = function (str){
+            let result =''
+            if (str.length <=18){
+                return str // if the str is 18 or greater then just return the str without the concat "..."
+            }
+            for (let i=0; i < 15; i++){ // we started the str to loop to the 15th char and after we follow with the  '...'
+                result = result + str[i]
+                
+            }
+            return result+ '...'
+}
+console.log(truncate("hello worldhfhfhjfjfjjdfhfhh"))
+
+
    
 ![Array](https://miro.medium.com/max/700/1*UTmgpblTHBBC-nFq1uGM5w.gif)
 
+
+# Cool math operators 
 
 ## Methods we couldnt use but studied
 
@@ -52,6 +71,7 @@ You can also use a while or forloor to loop through an array to find even or odd
         1. Split :The split() method is used to split a string into an array of substrings, and returns the new array. 
         2. Reverse :The reverse() method reverses the order of the elements in an array. Note: this method will change the original array.
         3. Join : The join() method creates and returns a new string by concatenating all of the elements in an array (or an array-like object), separated by commas or a specified separator string. If the array has only one item, then that item will be returned without using the separator.
+   
 
 
 
