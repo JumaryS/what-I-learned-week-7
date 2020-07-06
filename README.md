@@ -41,7 +41,9 @@ You can also use a while or forloor to loop through an array to find even or odd
 [string](https://github.com/JumaryS/string-theory)
 
 ### String!
+![fizz](https://eponymous-labs.github.io/carbide-splash/static/img/fizzbuzz.gif)
 
+ 
 #### Hard string examples that are great to learn 
             1. Truncate... (-_-)
             const truncate = function (str){
